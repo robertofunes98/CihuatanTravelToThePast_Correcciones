@@ -1,5 +1,13 @@
 Version Beta 0.2.1.11.18
+1.Correcciones de bugs
 - Lanzamiento publico
 
 Version Beta 0.2.2.2.11.18
+1.Correcciones de bugs
 - Correccion de bug (Al iniciar el juego con giroscopio se inciaba el modo tactil)
+
+Version Beta 0.2.3.2.11.18
+1.Correcciones de bugs
+- Correccion de bug (El modo Realidad virtual con giroscopio no inicia)
+2.Nuevos elementos agregados
+- Texto de carga en splash screen
